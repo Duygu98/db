@@ -1,0 +1,118 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus ZenBook",
+      "imageUrl": "https://images.pexels.com/photos/7974/pexels-photo.jpg?cs=srgb&dl=pexels-life-of-pix-7974.jpg&fm=jpg"
+    },
+    {
+      "id": 2,
+      "name": "Maouse",
+      "price": 500,
+      "categoryId": 2,
+      "description": "A4 Tech",
+      "imageUrl": "https://images.pexels.com/photos/392018/pexels-photo-392018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 3,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus ZenBook",
+      "imageUrl": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 4,
+      "name": "Maouse",
+      "price": 500,
+      "categoryId": 2,
+      "description": "A4 Tech",
+      "imageUrl": "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 5,
+      "name": "Maouse",
+      "price": 500,
+      "categoryId": 2,
+      "description": "A4 Tech",
+      "imageUrl": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 6,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus ZenBook",
+      "imageUrl": "https://images.pexels.com/photos/6416/apple-desk-office-technology.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": 7,
+      "name": "Müzik",
+      "price": 20,
+      "categoryId": 3,
+      "description": "A4 Tech",
+      "imageUrl": "https://images.pexels.com/photos/577769/pexels-photo-577769.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": 8,
+      "name": "Müzik",
+      "price": 30,
+      "categoryId": 3,
+      "description": "A4 Tech",
+      "imageUrl": "https://images.pexels.com/photos/846357/pexels-photo-846357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 9,
+      "name": "İletişim",
+      "price": 0,
+      "categoryId": 4,
+      "description": "",
+      "imageUrl": "https://images.pexels.com/photos/33999/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "name": "Telefon",
+      "description": "Iphone 8",
+      "price": "5.000",
+      "categoryId": "2",
+      "imageUrl": "https://productimages.hepsiburada.net/s/31/1100/10352775692338.jpg/format:webp",
+      "id": 10
+    },
+    {
+      "name": "Telefon",
+      "description": "Telefon birbirinden uzak yerlerde bulunan kişiler ve düzenekler arasında bilgi alışverişini sağlayan elektrikli ses alıp verme aygıtıdır.",
+      "price": "5100",
+      "imageUrl": "https://cdn.dsmcdn.com/assets/product/media/images/20191002/12/286719/57111515/1/1_org.jpg",
+      "categoryId": "4",
+      "id": 11
+    },
+    {
+      "name": "Telefon",
+      "description": "Telefon birbirinden uzak yerlerde bulunan kişiler ve düzenekler arasında bilgi alışverişini sağlayan elektrikli ses alıp verme aygıtıdır.",
+      "imageUrl": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/39181836/39181836-812e2e.jpg",
+      "price": "5100",
+      "categoryId": "2",
+      "id": 12
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "Elektronik"
+    },
+    {
+      "id": 3,
+      "name": "Müzik"
+    },
+    {
+      "id": 4,
+      "name": "İletişim"
+    }
+  ]
+}
